@@ -40,12 +40,12 @@
 
 ---------------
 
-<img align="center" src="https://github.com/SagarWagdare/Github/assets/122525256/fc081bb7-d750-4df5-a9ff-a731c445facc" alt="sagarwagdare" />
+<img align="center" src="https://github.com/SagarWagdare/Github/assets/122525256/b6ada794-6529-4131-be29-d2ef430986fa" alt="sagarwagdare" />
 
 <p>Instagram URL : https://www.instagram.com/sagar.wagdare/</p>
 
 ---------------
 
-<img align="center" src="https://github.com/SagarWagdare/Github/assets/122525256/fc081bb7-d750-4df5-a9ff-a731c445facc" alt="sagarwagdare" />
+<img align="center" src="https://github.com/SagarWagdare/Github/assets/122525256/4e45f603-e6ec-48dd-93b4-0405f205b6ce" alt="sagarwagdare" />
 
 <p>Gmail Account  : <a href="sagarwagdare2001@gmail.com"></a> </p>
