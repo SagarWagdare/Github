@@ -47,7 +47,7 @@
 
 <img align="center" src="https://github.com/SagarWagdare/Github/assets/122525256/b6ada794-6529-4131-be29-d2ef430986fa" alt="sagarwagdare" />
 
-<p>Instagram URL : https://www.instagram.com/sagar.wagdare/</p>
+<p>Instagram URL : https://www.instagram.com/sagar.wagdare</p>
 
 ---------------
 
