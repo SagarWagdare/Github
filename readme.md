@@ -1,7 +1,11 @@
 <h3 align="left">Languages and Tools:</h3>
+<<<<<<< HEAD
 
 ---------------
 
+=======
+---------------
+>>>>>>> b5ac8bdcb989c6b71550570cfd0b240eedf57ee6
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -53,4 +57,6 @@
 
 <img align="center" src="https://github.com/SagarWagdare/Github/assets/122525256/4e45f603-e6ec-48dd-93b4-0405f205b6ce" alt="sagarwagdare" />
 
-<p>Gmail Account  : <a href="sagarwagdare2001@gmail.com"></a> </p>
+
+<p>Gmail Account  : sagarwagdare2001@gmail.com
+---------------
