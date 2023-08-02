@@ -32,11 +32,20 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarwagdare&" alt="sagarwagdare" /></p>
 
+<h3 align="left">Connect with Me:</h3>
 
-<h3 align="left">Social Sites:</h3>
 <img align="center" src="https://github.com/SagarWagdare/Github/assets/122525256/5e5dda4b-bff2-4d6f-aa8b-36cba1d0d3e1" alt="sagarwagdare" />
-Linkedin URL : https://www.linkedin.com/in/sagar-wagdare
 
+<p>Linkedin URL : https://www.linkedin.com/in/sagar-wagdare</p>
 
+---------------
 
+<img align="center" src="https://github.com/SagarWagdare/Github/assets/122525256/fc081bb7-d750-4df5-a9ff-a731c445facc" alt="sagarwagdare" />
 
+<p>Instagram URL : https://www.instagram.com/sagar.wagdare/</p>
+
+---------------
+
+<img align="center" src="https://github.com/SagarWagdare/Github/assets/122525256/fc081bb7-d750-4df5-a9ff-a731c445facc" alt="sagarwagdare" />
+
+<p>Gmail Account  : sagarwagdare2001@gmail.com</p>
