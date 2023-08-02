@@ -54,5 +54,5 @@
 <img align="center" src="https://github.com/SagarWagdare/Github/assets/122525256/4e45f603-e6ec-48dd-93b4-0405f205b6ce" alt="sagarwagdare" />
 
 
-<p>Gmail Account  : sagarwagdare2001@gmail.com
----------------
+<p>Gmail Account  : sagarwagdare2001@gmail.com </p>
+
