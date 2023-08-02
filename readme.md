@@ -34,9 +34,9 @@
 
 
 <h3 align="left">Social Sites:</h3>
+<img align="center" src="https://github.com/SagarWagdare/Github/assets/122525256/5e5dda4b-bff2-4d6f-aa8b-36cba1d0d3e1" alt="sagarwagdare" />
 Linkedin URL : https://www.linkedin.com/in/sagar-wagdare
 
 
 
 
-https://github.com/SagarWagdare/Github/assets/122525256/5e5dda4b-bff2-4d6f-aa8b-36cba1d0d3e1
